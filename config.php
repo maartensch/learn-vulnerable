@@ -1,7 +1,7 @@
 <?php
 define('DB_NAME','learnVulnerable');
 define('DB_USER','root');
-define('DB_PASS','welcome');
+define('DB_PASS','root');
 define('SITE_TITLE','LearnVulnerable');
 define('HIGHLIGHT_COLOR','#de834c');
 
