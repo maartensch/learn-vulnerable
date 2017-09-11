@@ -1,5 +1,5 @@
 <?php
-//test
+//tes2t
 if (defined('_VULN')) {
     die("Recursive protection...");
 }
